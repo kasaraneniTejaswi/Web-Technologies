@@ -1,0 +1,21 @@
+p
+{
+background-color:cyan;
+color:red;
+font-size:10px;
+text-decoration:underline;
+}
+h1
+{
+background-color:red;
+}
+body
+{
+background-image:url('tree.jpg');
+background-size:500px ;
+background-repeat:repeat;
+background-position:center;
+}
+
+
+
