@@ -1,0 +1,39 @@
+h1
+{
+	text-align:center;
+	font-size:40px;
+	color: violet;
+}
+h2
+{
+	text-align:center;
+	font-size:30px;
+	color:red;
+}
+.image img
+{
+	width:200;
+	height:300;
+}
+.details
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+.detail
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+h3
+{
+	color:cyan;
+	font-size:30px;
+}
+h4
+{
+	font-size:20px;
+}
+	
