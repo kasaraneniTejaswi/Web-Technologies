@@ -1,21 +1,39 @@
-p
-{
-background-color:cyan;
-color:red;
-font-size:10px;
-text-decoration:underline;
-}
 h1
 {
-background-color:red;
+	text-align:center;
+	font-size:40px;
+	color: violet;
 }
-body
+h2
 {
-background-image:url('tree.jpg');
-background-size:500px ;
-background-repeat:repeat;
-background-position:center;
+	text-align:center;
+	font-size:30px;
+	color:red;
 }
-
-
-
+.image img
+{
+	width:200;
+	height:300;
+}
+.details
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+.detail
+{ 
+	margin-top:10px;
+	margin-left:60px;
+	font-size:30px;
+}
+h3
+{
+	color:cyan;
+	font-size:30px;
+}
+h4
+{
+	font-size:20px;
+}
+	
